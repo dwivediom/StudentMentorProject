@@ -1,0 +1,17 @@
+.ads{ 
+    position:absolute;
+    background-color: aliceblue;
+   
+    border: 2px solid blueviolet;
+    
+    background: white;
+    z-index: 19;
+    color: rgb(14, 14, 14) !important;
+}
+.co{ 
+    border: 3px solid black;
+    color: black;
+}
+.mb3{ 
+    margin-bottom: 30px !important;
+}
